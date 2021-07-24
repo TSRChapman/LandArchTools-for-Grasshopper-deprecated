@@ -1,6 +1,6 @@
 # LandArch-Tools-for-Grasshopper
 
-This script is a an amalgamation of tools that I use daily as a Landscape Architect. 
+This script is an amalgamation of tools that I use daily as a Landscape Architect. 
 Tools include:  
 - Interactive topography grading 
 - Stair generation 
